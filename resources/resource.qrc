@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/icons"/>
+    <qresource prefix="/">
+        <file>CpuFlag.ico</file>
+        <file>done.ico</file>
+    </qresource>
+</RCC>
